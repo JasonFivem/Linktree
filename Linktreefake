@@ -12,14 +12,16 @@
   </header>
   <main>
     <ul class="links">
-      <li><a href="https://www.example.com">Website 1</a></li>
-      <li><a href="https://www.example.com">Website 2</a></li>
-      <li><a href="https://www.example.com">Website 3</a></li>
-      <li><a href="https://www.example.com">Website 4</a></li>
+      <li><a href="https://discord.gg/AyZAjHsr8P">Roblox game discord server</a></li>
+      <li><a href="https://www.example.com">Tiktok soon</a></li>
+      <li><a href="https://www.example.com">Insta soon</a></li>
+      <li><a href="https://discord.gg/g85bakGWx9">Island-V fivem server</a></li>
+      <li><a href="https://www.example.com">Island-V Website soon</a></li>
     </ul>
   </main>
 </body>
 </html>
+
 body {
   margin: 0;
   font-family: Arial, sans-serif;
