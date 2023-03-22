@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mein Linktree</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Mein Linktree</h1>
+  </header>
+  <main>
+    <ul class="links">
+      <li><a href="https://www.example.com">Website 1</a></li>
+      <li><a href="https://www.example.com">Website 2</a></li>
+      <li><a href="https://www.example.com">Website 3</a></li>
+      <li><a href="https://www.example.com">Website 4</a></li>
+    </ul>
+  </main>
+</body>
+</html>
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+header {
+  background-color: #333;
+  color: white;
+  padding: 20px;
+}
+
+h1 {
+  margin: 0;
+}
+
+main {
+  padding: 20px;
+}
+
+.links {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.links li {
+  margin-bottom: 10px;
+}
+
+.links li a {
+  display: block;
+  padding: 10px;
+  background-color: #eee;
+  color: #333;
+  text-decoration: none;
+  border-radius: 5px;
+}
